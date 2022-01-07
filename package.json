@@ -1,0 +1,32 @@
+{
+  "name": "@glowyjs/random-ip",
+  "version": "1.0.0",
+  "description": "Random IP package provides functionality to generate a random ip value.",
+  "license": "MIT",
+  "repository": "glowyjs/random-ip",
+  "author": {
+    "name": "Sergey Romanenko",
+    "email": "awilum@msn.com",
+    "url": "https://github.com/Awilum"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": ">=12"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "devDependencies": {
+    "ava": "^3.15.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "glowyjs",
+    "glowy",
+    "random",
+    "ip"
+  ]
+}
